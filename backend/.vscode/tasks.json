@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Activate Environment",
+      "type": "shell",
+      "command": "./backend_env/Scripts/activate.bat", 
+      "problemMatcher": []
+    }
+  ]
+}
