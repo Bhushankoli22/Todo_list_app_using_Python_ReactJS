@@ -92,6 +92,6 @@ This is a full-stack **Todo Application** built using **ReactJS** for the fronte
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** Your Name  
-**GitHub:** [Your Profile](https://github.com/your-username)
+**Author:** Bhushan Koli 
+**GitHub:** [https://github.com/Bhushankoli22](https://github.com/Bhushankoli22/Todo_list_app_using_Python_ReactJS)
 
