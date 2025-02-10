@@ -88,9 +88,6 @@ This is a full-stack **Todo Application** built using **ReactJS** for the fronte
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request
 
-## License
-This project is licensed under the **MIT License**.
-
 ---
 **Author:** Bhushan Koli 
 **GitHub:** [https://github.com/Bhushankoli22](https://github.com/Bhushankoli22/Todo_list_app_using_Python_ReactJS)
